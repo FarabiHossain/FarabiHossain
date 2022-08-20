@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarabiHossain
 - 💻 I'm a Student and Developer
-- 👀 I’m interested in Nodejs,AngularJs 
-- 🌱 I’m currently learning Laravel,Mysql
+- 👀 I’m interested in SQA
+- 🌱 I’m currently learning Mobile Automation,Database Testing
 - 📫 How to reach me https://www.facebook.com/nihad.farabi
       
 
